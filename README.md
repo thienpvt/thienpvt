@@ -1,4 +1,11 @@
-### Hi there 👋
+Hello, I'm Thien, a third year student majoring in information technology at
+Hanoi University. I'm really excited about the development of the
+program.
+
+Expertise
+  - Programming Languages: Java, JavaScript, PHP, HTML, CSS.
+  - Database: MySQL, SQL Sever.
+  - Framework: Laravel.
 
 <!--
 **thienpvt/thienpvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
