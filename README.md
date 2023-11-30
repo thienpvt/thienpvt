@@ -3,9 +3,9 @@ Hanoi University. I'm really excited about the development of the
 program.
 
 Expertise
-  - Programming Languages: Java, JavaScript, PHP, HTML, CSS.
+  - Programming Languages: Java, JavaScript, PHP.
   - Database: MySQL, SQL Sever.
-  - Framework: Laravel.
+  - Framework: Laravel, Spring, Spring Boot, AngularJS.
 
 <!--
 **thienpvt/thienpvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
