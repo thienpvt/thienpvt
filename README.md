@@ -1,11 +1,9 @@
-Hello, I'm Thien, a third year student majoring in information technology at
-Hanoi University. I'm really excited about the development of the
-program.
+Hello, I'm Thien, an introvert fullstack developer and willing to study everything.
 
 Expertise
   - Programming Languages: Java, JavaScript, PHP.
-  - Database: MySQL, SQL Sever.
-  - Framework: Laravel, Spring, Spring Boot, AngularJS.
+  - Database: MySQL, SQL Sever, Oracle PL/SQL.
+  - Framework: Spring, Spring Boot, VueJS, AngularJS, ReactJS, Laravel.
 
 <!--
 **thienpvt/thienpvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
