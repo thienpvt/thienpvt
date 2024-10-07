@@ -1,9 +1,11 @@
-Hello, I'm Thien, an introvert fullstack developer and willing to study everything.
+Hello, I'm Thien, a fullstack developer and willing to study everything.
 
 Expertise
   - Programming Languages: Java, JavaScript, PHP.
   - Database: MySQL, SQL Sever, Oracle PL/SQL.
   - Framework: Spring, Spring Boot, VueJS, AngularJS, ReactJS, Laravel.
+  - CI/CD: Jenkins, Docker, K8S, SonarQube.
+  - Cloud: AWS
 
 <!--
 **thienpvt/thienpvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
