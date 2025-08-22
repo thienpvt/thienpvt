@@ -67,7 +67,7 @@ I’m a full-stack developer who loves building robust backends (Java/Spring Boo
 
 ---
 
-## 🏗️ Selected Work (no company names)
+## 🏗️ Selected Work
 - **ERP modules**: Customer management & business planning  
   • High-performance REST APIs (Spring Boot, Oracle) • CI/CD with Jenkins + Kubernetes • Code quality via SonarQube • Frontend collab with Vue.
 
@@ -104,14 +104,13 @@ A hands-on microservices system to explore real-world MSA:
 ---
 
 ## 📈 GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` below with your username.
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=thienpvt&show_icons=true&rank_icon=github" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienpvt&layout=compact" />
 </p>
 <p align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
+  <img height="200" src="https://streak-stats.demolab.com?user=thienpvt" />
 </p>
 
 ---
